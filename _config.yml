@@ -2,8 +2,8 @@
 title: CV Habib Imron Cahyo Nugroho
 description: CV Habib Imron Cahyo Nugroho
 favicon: /assets/img/avatar.gif
-baseurl: https://habibimroncn.github.io/my-resume
-url: https://habibimroncn.github.io/my-resume
+baseurl: http://habibimroncn.github.io/my-resume
+url: http://habibimroncn.github.io/my-resume
 rss_url: /pages/atom.xml
 google_analytics: UA-56619434-7
 
@@ -18,7 +18,7 @@ author:
   title: PHP Developer
   address: Malang, Jawa Timur
   email: dongg.liang@gmail.com
-  link: https://habibimroncn.github.io
+  link: http://habibimroncn.github.io
   weibo:
   github: habibimroncn
   linkedin: habib-nugroho-689410ab
