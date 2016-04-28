@@ -1,0 +1,74 @@
+# Site settings
+title: CV Habib Imron Cahyo Nugroho
+description: CV Habib Imron Cahyo Nugroho
+favicon: /assets/img/avatar.gif
+baseurl: http://habibimroncn.github.io/my-resume
+url: http://habibimroncn.github.io/my-resume
+rss_url: /pages/atom.xml
+google_analytics: UA-56619434-7
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Habib Imron Cahyo Nugroho
+  title: PHP Developer
+  address: Malang, Jawa Timur
+  email: dongg.liang@gmail.com
+  link: http://habibimroncn.github.io
+  weibo:
+  github: habibimroncn
+  linkedin: habib-nugroho-689410ab
+  twitter: Hab_15
+  gavatar: /my-resume/assets/img/avatar.gif
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: CV. Indosoft
+      location: Malang, Jawa Timur
+      title: Web Programmer
+      started: 2014
+      duration: (2014 - Sekarang)
+      description: Membuat dan mengedit website dengan menggunakan WordPress, Framework Laravel, dan membuat aplikasi mobile android/IOS menggunakan PhoneGap.
+  educationHistory:
+    - education1:
+      organization: Universitas Brawijaya
+      location: Malang, Jawa Timur
+      degree: Sarjana (S1)
+      major: Teknik Informatika
+      started: 2010
+      duration: (2010 - 2014)
+      description: Selama kuliah mempelajari pembuatan aplikasi android, aplikasi desktop berbasis Java, pembuatan website dengan PHP, CSS3 dan HTML5. Skripsi Membuat aplikasi Android tentang pemetaan daerah wisata di Kabupaten Trenggalek.
+  languages:
+    - language1:
+      name: Indonesia
+      proficiency: Professional
+    - language2:
+      name: English
+      proficiency: Limit
+  programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 95%
+    - skill2:
+      name: Bootstrap
+      percentage: 85%
+    - skill3:
+      name: JavaScript
+      percentage: 70%
+    - skill4:
+      name: AngularJS
+      percentage: 65%
+    - skill5:
+      name: Java/Java EE
+      percentage: 85%
+    - skill6:
+      name: PHP
+      percentage: 95%
+    - skill7:
+      name: CSS
+      percentage: 80%
