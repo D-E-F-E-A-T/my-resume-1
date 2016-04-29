@@ -13,4 +13,4 @@ function printToPdf() {
 	doc.fromHTML($('body').get(0), 15, 15, {
 		'width': 170, 
 		'elementHandlers': specialElementHandlers
-}
+});
