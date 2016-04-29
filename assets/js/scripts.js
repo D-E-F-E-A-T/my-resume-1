@@ -14,3 +14,4 @@ function printToPdf() {
 		'width': 170, 
 		'elementHandlers': specialElementHandlers
 });
+}
