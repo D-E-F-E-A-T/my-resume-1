@@ -48,6 +48,9 @@ author:
       name: Indonesia
       proficiency: Professional
     - language2:
+      name: Jawa
+      proficiency: Professional
+    - language3:
       name: English
       proficiency: Limit
   programmingSkills:
